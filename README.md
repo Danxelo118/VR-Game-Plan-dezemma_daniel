@@ -7,10 +7,12 @@
 - [Sound Moodboard](#sound-moodboard)
 - [Basic Map of Virtual Environment](#basic-map-of-virtual-environment)
 - [Draw.io Schema](#drawio-schema)
-## C'est un jeu qui s'inspire de l'abstrait. 
+## "Limitless" est un jeu VR qui s'inspire de l'abstrait. 
 Un résumé en une phrase 
 Une description écrite de la proposition 
+## C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dans un monde infini abstrait.
 Un moodboard visuel et sonore 
+
 Une carte de votre environnement virtuel 
 Un schéma de programmation ou d'interactivité
 
