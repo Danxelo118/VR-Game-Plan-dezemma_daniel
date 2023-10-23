@@ -23,6 +23,7 @@ C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dan
 ## Carte de votre environnement virtuel 
 ![map.png](assets/map.png)
 ## Schéma de programmation et interactivité
+![schema.png](assets/schema.png)
 
 
 ## Équipe
