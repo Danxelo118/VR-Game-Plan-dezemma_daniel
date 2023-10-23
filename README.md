@@ -26,4 +26,4 @@ C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dan
 ## Équipe
 - [Daniel Dezemma] - Programmation
 - [Trsitan Kadkha] - Modelisation 3D
-- [Alexis Tremblay] - Modelisation 3D
+- [Alexis Tremblay] - Animation 3D
