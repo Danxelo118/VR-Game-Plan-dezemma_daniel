@@ -12,7 +12,10 @@
 ## Description écrite de la proposition 
 C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dans un monde infini abstrait. Le décor donnera un aspect très spatial et mystérieux. L'objectif du joueur est de collecter des objets abstraits à travers l'espace sombre et mystérieux.
 ## Moodboard visuel 
-
+![space.avif](assets/space.avif)
+![nebula.avif](assets/nebula.avif)
+![object-1.jpg](assets/object-1.jpg)
+![object-2.jpg](assets/object-2.jpg)
 ## Moodboard sonore
 ## Carte de votre environnement virtuel 
 ## Schéma de programmation ou d'interactivité
