@@ -1,4 +1,4 @@
-# VR Game plan
+# VR Game plan (Limitless)
 ![space-void.avif](assets/space-void.avif)
 ## Table des matières
 - [Résumé](#Résumé)
