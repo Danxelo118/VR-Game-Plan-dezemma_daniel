@@ -1,5 +1,5 @@
 # VR Game Project Plan
-![space-void.avif](image/space-void.avif)
+![space-void.avif](assets/space-void.avif)
 ## Table of Contents
 - [Game Summary](#game-summary)
 - [Game Description](#game-description)
