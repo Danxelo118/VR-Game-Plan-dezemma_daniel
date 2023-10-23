@@ -7,6 +7,7 @@
 - [Moodboard sonore](#Moodboard-sonore)
 - [Carte](#Carte-de-votre-environnement-virtuel)
 - [Schéma](#Schéma-de-programmation-et-interactivité)
+- [Équipe](#Équipe)
 - ## Résumé
  "Limitless" est un jeu VR qui s'inspire de l'abstrait. 
 ## Description écrite de la proposition 
