@@ -1,12 +1,12 @@
 # VR Game Project Plan
 ![space-void.avif](assets/space-void.avif)
 ## Table of Contents
-- [Game Summary](#game-summary)
-- [Game Description](#game-description)
-- [Image Moodboard](#image-moodboard)
-- [Sound Moodboard](#sound-moodboard)
-- [Basic Map of Virtual Environment](#basic-map-of-virtual-environment)
-- [Draw.io Schema](#drawio-schema)
+- [Résumé](#Résumé)
+- [Description](#Description-écrite-de-la-proposition)
+- [Moodboard visuel](#Moodboard-visuel)
+- [Moodboard sonore](#Moodboard-sonore)
+- [Carte](#Carte-de-votre-environnement-virtuel)
+- [Schéma](#Schéma-de-programmation-et-interactivité)
 - ## Résumé
  "Limitless" est un jeu VR qui s'inspire de l'abstrait. 
 ## Description écrite de la proposition 
@@ -20,7 +20,7 @@ C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dan
 [space](https://www.youtube.com/watch?v=kXUnJ61KxRE)
 [jupiter](https://www.youtube.com/watch?v=UChzxK9gknM)
 ## Carte de votre environnement virtuel 
-## Schéma de programmation ou d'interactivité
+## Schéma de programmation et interactivité
 
 
 ## Équipe
