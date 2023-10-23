@@ -1,6 +1,6 @@
-# VR Game Project Plan
+# VR Game plan
 ![space-void.avif](assets/space-void.avif)
-## Table of Contents
+## Table des matières
 - [Résumé](#Résumé)
 - [Description](#Description-écrite-de-la-proposition)
 - [Moodboard visuel](#Moodboard-visuel)
