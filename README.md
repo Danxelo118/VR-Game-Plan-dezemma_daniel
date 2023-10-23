@@ -23,9 +23,7 @@ C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dan
 ## Schéma de programmation ou d'interactivité
 
 
-## Contributors
-- [Your Name] - Project Lead
-- [Contributor 1] - Role
-- [Contributor 2] - Role
-
-Feel free to adapt and expand upon this template as needed for your specific VR game project.
+## Équipe
+- [Daniel Dezemma] - Intégration 3D
+- [Trsitan Kadkha] - Modelisation 3D
+- [Alexis Tremblay] - Programmation
