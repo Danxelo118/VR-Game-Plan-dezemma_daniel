@@ -22,7 +22,7 @@ C'est un jeu de réalité virtuelle immersif qui permet aux joueurs d'entrer dan
 [jupiter](https://www.youtube.com/watch?v=UChzxK9gknM)
 ## Carte de votre environnement virtuel 
 ![map.png](assets/map.png)
-## Schéma de programmation et interactivité
+
 ![schema.png](assets/schema.png)
 
 
